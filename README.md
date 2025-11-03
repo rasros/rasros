@@ -1,16 +1,13 @@
-## Hi there 👋
+## Rasmus Ros
 
-<!--
-**rasros/rasros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD in Computer Science (Lund University), currently Tech Lead at [Theca.com](https://theca.com). I work on ML systems, constraint optimization, and data-driven software infrastructure.
 
-Here are some ideas to get you started:
+### 📄 Selected Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[COMBO](https://github.com/Eigenity/combo)**  (Constraint-Oriented Multi-Variate Bandit Optimization) is a toolkit for online optimization of LLM prompts using live data. It supports formal constraints like token budgets, user tiers, and business logic, making it suitable for handling scalibility challenges in agentic AI. The system is built around Bayesian optimization and contextual bandits, with a service implementation in Kotlin and Kubernetes.
+  👉 If you're working with LLMs or agentic systems, [give COMBO a ⭐ on GitHub](https://github.com/Eigenity/combo)!
+
+- **Open Education**  I’ve helped develop and open-source course materials for [Large-Scale Software Engineering](https://github.com/lunduniversity/largesofteng) at Lund University. The course focuses on system design and modern software practices at scale.
+
+- **FACE Theory & A/B testing**  My PhD work introduced the FACE model for understanding organizational and technical barriers to continuous experimentation. I also proposed practical frameworks to support controlled deployment and live testing in industrial software settings.
+
