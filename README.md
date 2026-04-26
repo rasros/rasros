@@ -5,7 +5,7 @@ I build things across ML, optimization, and software infrastructure: LLM tooling
 ### Tools
 
 - **[lx](https://github.com/rasros/lx)** (Go) Converts files into simple Markdown-fenced blocks for easy use in LLM chats.
-- **[vectrify](https://github.com/rasros/vectrify)** (Python) Vectorizes raster images (PNG/JPG) to SVG using a mix of LLMs and NSGA-II multi-objective optimization, with multiple output formats.
+- **[vectrify](https://github.com/rasros/vectrify)** (Python) Vectorizes raster images (PNG/JPG) using a mix of LLMs and NSGA-II multi-objective optimization. Outputs SVG and other vector formats.
 
 ### Eignex
 
