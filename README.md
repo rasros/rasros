@@ -4,20 +4,20 @@ I build things across LLM tooling, applied optimization, streaming ML/stats, and
 
 ### Tools
 
-- **[lx](https://github.com/rasros/lx)** (Go) Converts files into simple Markdown-fenced blocks for easy use in LLM chats.
-- **[vectrify](https://github.com/rasros/vectrify)** (Python) Vectorizes raster images (PNG/JPG) using a mix of LLMs and NSGA-II multi-objective optimization. Outputs SVG and other vector formats.
+- **[lx](https://github.com/rasros/lx)** (Go) Files to Markdown-fenced blocks for LLM chats.
+- **[vectrify](https://github.com/rasros/vectrify)** (Python) Raster to vector via LLMs and NSGA-II.
 
 ### Eignex
 
-[Eignex](https://eignex.com) is an optimization engine that safely tunes knobs in production systems via constraint-based multi-variate bandit optimization. All libraries below are Kotlin.
+[Eignex](https://eignex.com) safely tunes production knobs via constraint-based multi-variate bandits. Kotlin libraries:
 
-- **[combo](https://github.com/Eignex/combo)** (Constraint-Oriented Multi-Variate Bandit Optimization): toolkit for online optimization of LLM prompts or software parameters using live data. Under reconstruction.
-- **[kencode](https://github.com/Eignex/kencode)** Compact, ASCII-safe encodings and ultra-small binary serialization for Kotlin, ideal for URLs, headers, file names, and other size-limited channels.
-- **[kpermute](https://github.com/Eignex/kpermute)** Kotlin library for shuffling lists too big for memory or for ID obfuscation. Uses bijective integer permutations with fast cycle-walking hash mixing.
-- **[kumulant](https://github.com/Eignex/kumulant)** Streaming statistics for Kotlin built on lock-free atomic primitives. Supports EWMA, time-decaying aggregates, and more.
+- **[combo](https://github.com/Eignex/combo)** Constraint-Oriented Multi-Variate Bandit Optimization. Under reconstruction.
+- **[kencode](https://github.com/Eignex/kencode)** Compact, ASCII-safe encodings for size-limited channels.
+- **[kpermute](https://github.com/Eignex/kpermute)** Out-of-core shuffling via bijective integer permutations.
+- **[kumulant](https://github.com/Eignex/kumulant)** Lock-free streaming statistics: EWMA, time-decaying aggregates, and more.
 
 ### Other
 
-- **[largesofteng](https://github.com/lunduniversity/largesofteng)** Open education labs for a course on system design and modern software practices at scale.
-- **[aoc23](https://github.com/rasros/aoc23) / [aoc25](https://github.com/rasros/aoc25)** Advent of Code solutions.
+- **[largesofteng](https://github.com/lunduniversity/largesofteng)** Open labs for a Lund course on software at scale.
+- **[aoc23](https://github.com/rasros/aoc23) / [aoc25](https://github.com/rasros/aoc25)** Advent of Code.
 - **[Google Scholar](https://scholar.google.com/citations?user=ojVVLfkAAAAJ&hl=sv)** Publications.
