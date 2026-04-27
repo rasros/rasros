@@ -4,7 +4,7 @@ I build things across LLM tooling, applied optimization, streaming ML/stats, and
 
 ### Tools
 
-- **[lx](https://github.com/rasros/lx)** (Go) Files to Markdown-fenced blocks for LLM chats.
+- **[lx](https://github.com/rasros/lx)** (Go) CLI that bundles files into LLM-ready context, with type/function skeletons, per-file slicing, and tree views.
 - **[vectrify](https://github.com/rasros/vectrify)** (Python) Raster to vector via LLMs and NSGA-II.
 
 ### Eignex
@@ -13,7 +13,7 @@ I build things across LLM tooling, applied optimization, streaming ML/stats, and
 
 - **[combo](https://github.com/Eignex/combo)** Constraint-Oriented Multi-Variate Bandit Optimization. Under reconstruction.
 - **[kencode](https://github.com/Eignex/kencode)** Compact, ASCII-safe encodings for size-limited channels.
-- **[kpermute](https://github.com/Eignex/kpermute)** Out-of-core shuffling via bijective integer permutations.
+- **[kpermute](https://github.com/Eignex/kpermute)** Shuffle huge sequences without holding them in memory; also handy for ID obfuscation.
 - **[kumulant](https://github.com/Eignex/kumulant)** Lock-free streaming statistics: EWMA, time-decaying aggregates, and more.
 
 ### Other
