@@ -4,7 +4,7 @@ I build things across LLM tooling, applied optimization, streaming ML/stats, and
 
 ### Tools
 
-- **[lx](https://github.com/rasros/lx)** (Go) CLI and agent skill that bundles files into LLM-ready context, with type/function skeletons, per-file slicing, and tree views.
+- **[lx](https://github.com/rasros/lx)** (Go) CLI and agent skill that bundles files for LLMs, with type/function skeletons, tree views, etc.
 - **[vectrify](https://github.com/rasros/vectrify)** (Python) Raster to vector via LLMs and NSGA-II.
 
 ### Eignex
