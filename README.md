@@ -12,9 +12,12 @@ I build things across LLM tooling, applied optimization, streaming ML/stats, and
 [Eignex](https://eignex.com) safely tunes production knobs via Constraint-Oriented Multi-variate Bandit Optimization (COMBO). Kotlin libraries:
 
 - **[combo](https://github.com/Eignex/combo)** The main engine that ties it together. Under reconstruction.
+- **[kumulant](https://github.com/Eignex/kumulant)** Lock-free streaming statistics: EWMA, time-decaying aggregates, and more.
+- **[klause](https://github.com/Eignex/klause)**
+- **[skema](https://github.com/Eignex/skema)** 
 - **[kencode](https://github.com/Eignex/kencode)** Compact, ASCII-safe encodings for size-limited channels.
 - **[kpermute](https://github.com/Eignex/kpermute)** Shuffle huge sequences without holding them in memory; also handy for ID obfuscation.
-- **[kumulant](https://github.com/Eignex/kumulant)** Lock-free streaming statistics: EWMA, time-decaying aggregates, and more.
+
 
 ### Other
 
