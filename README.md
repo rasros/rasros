@@ -1,6 +1,6 @@
 ## Rasmus Ros
 
-I build things across LLM tooling, applied optimization, streaming ML/stats, and efficient data structures and algorithms. Kotlin is my language of choice, with Python and Go in the mix. Head of Engineering at [Theca](https://theca.com) is my dayjob; PhD in Computer Science from Lund University.
+Kotlin, Python, and Go. Optimization, streaming statistics, and LLM tooling.
 
 ### Tools
 
@@ -9,16 +9,15 @@ I build things across LLM tooling, applied optimization, streaming ML/stats, and
 
 ### Eignex
 
-[Eignex](https://eignex.com) is all focused around a bayesian optimization framework with a rich constraint system so you can exclude invalid options. This started with my PhD to optimize software configurations. It's all organized in a bunch of Kotlin multip-platform libraries:
+[Eignex](https://eignex.com) is a Bayesian optimization framework with a constraint system for ruling out invalid configurations, started during my PhD on optimizing software configurations. It is split into Kotlin multiplatform libraries:
 
 - **[combo](https://github.com/Eignex/combo)** The main engine that ties it together. Under construction.
 - **[kumulant](https://github.com/Eignex/kumulant)** Lock-free streaming statistics: EWMA, time-decaying aggregates, and more.
 - **[klause](https://github.com/Eignex/klause)** Hybrid general-purpose CSP-SAT-LP optimizer.
-- **[koblas](https://github.com/Eignex/koblas)** BLAS and LAPACK bindings for dense and sparse matrices together with reference implementations when system binaries are missing.
-- **[skema](https://github.com/Eignex/skema)**
+- **[koblas](https://github.com/Eignex/koblas)** BLAS and LAPACK bindings for dense and sparse matrices, with reference implementations when system binaries are missing.
+- **[skema](https://github.com/Eignex/skema)** Schemas that are both typed Kotlin code and serialized wire data, so consumers without the Kotlin source can still walk them.
 - **[kencode](https://github.com/Eignex/kencode)** Compact, ASCII-safe encodings for size-limited channels.
 - **[kpermute](https://github.com/Eignex/kpermute)** Shuffle huge sequences without holding them in memory; also handy for ID obfuscation.
-
 
 ### Other
 
