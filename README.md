@@ -14,7 +14,7 @@ Kotlin, Python, and Go. Optimization, streaming statistics, and LLM tooling.
 - **[combo](https://github.com/Eignex/combo)** The main engine that ties it together. Under construction.
 - **[kumulant](https://github.com/Eignex/kumulant)** Lock-free streaming statistics: EWMA, time-decaying aggregates, and more.
 - **[klause](https://github.com/Eignex/klause)** Hybrid general-purpose CSP-SAT-LP optimizer.
-- **[koblas](https://github.com/Eignex/koblas)** BLAS and LAPACK bindings for dense and sparse matrices, with reference implementations when system binaries are missing.
+- **[koblas](https://github.com/Eignex/koblas)** Multi-platform BLAS using custom JVM-only SIMD kernels and bindings to installed binaries for native.
 - **[skema](https://github.com/Eignex/skema)** Schemas that are both typed Kotlin code and serialized wire data, so consumers without the Kotlin source can still walk them.
 - **[kencode](https://github.com/Eignex/kencode)** Compact, ASCII-safe encodings for size-limited channels.
 - **[kpermute](https://github.com/Eignex/kpermute)** Shuffle huge sequences without holding them in memory; also handy for ID obfuscation.
